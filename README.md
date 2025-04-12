@@ -1,9 +1,10 @@
 <h1>LinkedIn Post: Communication is Key</h1>
 
 <h2>Summary</h2>
-I thought of this post while at the hospital with my life. An interaction I had with the nurse allowed me to identify I was on the "user" side of the
+I thought of this post while at the hospital with my wife. An interaction I had with the nurse allowed me to identify I was on the "user" side of the
 conversation and noticed that the same communication challenges that we deal with in technology exist in the exact same way here in the hospital, and
 by extension, pretty much the same way in every industry. It's obvious when you think about it, but I don't think it's something we often consider.
+Skills can be specific, but good communication is universal.
 <br />
 
 
